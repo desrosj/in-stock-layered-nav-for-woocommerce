@@ -1,5 +1,5 @@
 === In Stock Layered Nav for WooCommerce ===
-Contributors: desrosj, linchpinagency
+Contributors: desrosj, linchpin_agency
 Tags: woocommerce, stock, faceted search, layered nav
 Requires at least: 3.0.1
 Tested up to: 4.5
